@@ -5,8 +5,24 @@ I am currently single and live alone in a one bedroom apartment in West Allis, W
 <br>
 <body>
 <h2>Hobbies and things I enjoy</h2>
-<ul><li>Hiking</li>
-<li>Swimming</li>
-<li>Playing Dungeons & Dragons</li>
-<li>Playing Pool</li>
-</ul>
+  <ul>
+    <li>Hiking</li>
+    <li>Swimming</li>
+   <li>Playing Dungeons & Dragons</li>
+    <li>Playing Pool</li>
+  </ul>
+<br>
+  <h2>I love animals! Some animal companions I've had</h2>
+  <ul>
+    <li>Dogs</li>
+    <li>Cats</li>
+    <li>Rabbits</li>
+    <li>Ducks</li>
+    <li>Guinea Pigs</li>
+    <li>Turtles</li>
+    <li>Lizards</li>
+    <li>Snakes</li>
+    <li>Parakeet</li>
+    <li>Fish</li>
+  </ul>
+</body>
