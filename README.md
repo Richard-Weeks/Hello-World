@@ -12,7 +12,8 @@ I am currently single and live alone in a one bedroom apartment in West Allis, W
     <li>Playing Pool</li>
   </ul>
 <br>
-  <h2>I love animals! Some animal companions I've had</h2>
+  <h2>I love animals!</h2>
+  <h3>Some animal companions I've had</h3>
   <ul>
     <li>Dogs</li>
     <li>Cats</li>
